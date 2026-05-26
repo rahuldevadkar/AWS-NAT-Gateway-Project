@@ -64,7 +64,7 @@ User → Internet Gateway → Public Subnet → NAT Gateway → Private Subnet
 ![Private_Subnet_Route_table](screenshots/private_route_table.png)
 
 ### Private EC2 Instance
-![EC2-Instance](screenshots/ec2-instance.png)
+![EC2-Instance](screenshots/private_ec2.png)
 
 ### SSH Access public subnet
 ![SSH_Access_public_subnet](screenshots/ssh_access.png)
