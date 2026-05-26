@@ -52,16 +52,25 @@ User → Internet Gateway → Public Subnet → NAT Gateway → Private Subnet
 ## 📷 Screenshots
 
 ### VPC Architecture
-![Architecture](screenshots/architecture.png)
-
-### Public Route Table
-![Public Route Table](screenshots/public-route-table.png)
-
-### Private Route Table
-![Private Route Table](screenshots/private-route-table.png)
+![VPC-Architecture](screenshots/vpc-architecture.png)
 
 ### NAT Gateway
-![NAT Gateway](screenshots/nat-gateway.png)
+![NAT-Gateway](screenshots/nat-gateway.png)
+
+### Public Route Table
+![Public_Subnet_Route_Table](screenshots/public_subnet_route_table.png)
+
+### Private Route Table
+![Private_Subnet_Route_table](screenshots/private_subnet_route_table.png)
+
+### Private EC2 Instance
+![EC2-Instance](screenshots/ec2-instance.png)
+
+### SSH Access public subnet
+![SSH_Access_public_subnet](screenshots/ssh_access_public_subnet.png)
+
+### Private EC2 Internet Access
+![Private_EC2_Internet_Access](screenshots/private_ec2_internet_access.png)
 
 ---
 
