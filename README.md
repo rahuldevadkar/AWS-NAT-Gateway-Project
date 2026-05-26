@@ -58,7 +58,7 @@ User → Internet Gateway → Public Subnet → NAT Gateway → Private Subnet
 ![NAT-Gateway](screenshots/nat_gateway.png)
 
 ### Public Route Table
-![Public_Subnet_Route_Table](screenshots/public_subnet_route_table.png)
+![Public Subnet Route Table](screenshots/public_subnet_route_table.png)
 
 ### Private Route Table
 ![Private_Subnet_Route_table](screenshots/private_subnet_route_table.png)
