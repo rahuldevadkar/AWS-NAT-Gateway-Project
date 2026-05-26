@@ -1,7 +1,7 @@
 # 🚀 AWS NAT Gateway Project
 
 ## 📌 Project Overview
-This project demonstrates secure AWS VPC architecture using public and private subnets with a NAT Gateway.
+This is my Hands-on project demonstrates secure AWS VPC architecture using public and private subnets with a NAT Gateway.
 
 The main goal of this project was to understand:
 - AWS networking
@@ -75,4 +75,4 @@ User → Internet Gateway → Public Subnet → NAT Gateway → Private Subnet
 ---
 
 ## 📚 Conclusion
-This project helped me gain hands-on experience with AWS networking and secure cloud infrastructure design.
+This is my Hands-on project helped me gain hands-on experience with AWS networking and secure cloud infrastructure design.
