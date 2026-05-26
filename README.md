@@ -55,7 +55,7 @@ User → Internet Gateway → Public Subnet → NAT Gateway → Private Subnet
 ![VPC Architecture](screenshots/vpc_architecture.png)
 
 ### NAT Gateway
-![NAT-Gateway](screenshots/nat-gateway.png)
+![NAT-Gateway](screenshots/nat_gateway.png)
 
 ### Public Route Table
 ![Public_Subnet_Route_Table](screenshots/public_subnet_route_table.png)
