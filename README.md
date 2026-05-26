@@ -52,7 +52,7 @@ User → Internet Gateway → Public Subnet → NAT Gateway → Private Subnet
 ## 📷 Screenshots
 
 ### VPC Architecture
-![vpc_architecture](screenshots/vpc-architecture.png)
+![VPC Architecture](screenshots/vpc_architecture.png)
 
 ### NAT Gateway
 ![NAT-Gateway](screenshots/nat-gateway.png)
